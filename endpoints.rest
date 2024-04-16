@@ -1,6 +1,6 @@
 
 ### Variables
-@url = http://localhost:3001/api/v1
+@url = http://localhost:3000/api/v1
 @id = 660b0f7a895cbc861a6b77ad
 
 ### Get all movies ---------------------
